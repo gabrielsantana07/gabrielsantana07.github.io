@@ -60,6 +60,10 @@
     line-height: 1.1;
     font-weight: bold;
   }
+
+  .empresa-titulo a {
+    color: #141414;
+  }
   
   .empresa-texto {
     font-size: 0.875rem;
